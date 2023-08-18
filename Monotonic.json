@@ -1,0 +1,412 @@
+[
+  {
+    "id": 1000,
+    "name": "White matter",
+    "children": [
+      {
+        "id": 67,
+        "name": "corpus callosum and associated subcortical white matter",
+        "color": "e8dcd4"
+      },
+      {
+        "id": 1001,
+        "name": "Anterior commissure",
+        "children": [
+          {
+            "id": 36,
+            "name": "anterior commissure, anterior part",
+            "color": "e8dcd4"
+          },
+          {
+            "id": 37,
+            "name": "anterior commissure, posterior part",
+            "color": "e8dcd4"
+          },
+          {
+            "id": 73,
+            "name": "anterior commissure, intrabulbar part",
+            "color": "e8dcd4"
+          }
+        ]
+      },
+      {
+        "id": 1002,
+        "name": "Fimbria-Fornix",
+        "children": [
+          {
+            "id": 6,
+            "name": "alveus of the hippocampus",
+            "color": "e8dcd4"
+          },
+          {
+            "id": 38,
+            "name": "ventral hippocampal commissure",
+            "color": "e8dcd4"
+          },
+          {
+            "id": 52,
+            "name": "fornix",
+            "color": "e8dcd4"
+          },
+          {
+            "id": 59,
+            "name": "fimbria of the hippocampus",
+            "color": "e8dcd4"
+          }
+        ]
+      },
+      {
+        "id": 1003,
+        "name": "Internal Capsule",
+        "children": [
+          {
+            "id": 1,
+            "name": "corticofugal pathways",
+            "color": "e8dcd4"
+          },
+          {
+            "id": 85,
+            "name": "pyramidal decussation",
+            "color": "e8dcd4"
+          }
+        ]
+      },
+      {
+        "id": 1005,
+        "name": "Thalamic tracts",
+        "children": [
+          {
+            "id": 53,
+            "name": "mammillothalamic tract",
+            "color": "e8dcd4"
+          },
+          {
+            "id": 54,
+            "name": "commissural stria terminalis",
+            "color": "e8dcd4"
+          },
+          {
+            "id": 60,
+            "name": "fasciculus retroflexus",
+            "color": "e8dcd4"
+          },
+          {
+            "id": 61,
+            "name": "stria medullaris of the thalamus",
+            "color": "e8dcd4"
+          },
+          {
+            "id": 62,
+            "name": "stria terminalis",
+            "color": "e8dcd4"
+          },
+          {
+            "id": 80,
+            "name": "habenular commissure",
+            "color": "e8dcd4"
+          }
+        ]
+      },
+      {
+        "id": 1007,
+        "name": "Optic nerve and tract",
+        "children": [
+          {
+            "id": 41,
+            "name": "optic nerve",
+            "color": "e8dcd4"
+          },
+          {
+            "id": 42,
+            "name": "optic tract and optic chiasm",
+            "color": "e8dcd4"
+          }
+        ]
+      },
+      {
+        "id": 76,
+        "name": "spinal trigeminal tract",
+        "color": "e8dcd4"
+      },
+      {
+        "id": 1009,
+        "name": "Cerebellar and precerebellar white matter",
+        "children": [
+          {
+            "id": 7,
+            "name": "inferior cerebellar peduncle",
+            "color": "e8dcd4"
+          },
+          {
+            "id": 78,
+            "name": "middle cerebellar peduncle",
+            "color": "e8dcd4"
+          },
+          {
+            "id": 79,
+            "name": "transverse fibers of the pons",
+            "color": "e8dcd4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1010,
+    "name": "Gray matter",
+    "children": [
+      {
+        "id": 1011,
+        "name": "Olfactory system",
+        "children": [
+          {
+            "id": 64,
+            "name": "glomerular layer of the accessory olfactory bulb",
+            "color": "c2a994"
+          },
+          {
+            "id": 65,
+            "name": "glomerular layer of the olfactory bulb",
+            "color": "c2a994"
+          },
+          {
+            "id": 66,
+            "name": "olfactory bulb",
+            "color": "c2a994"
+          }
+        ]
+      },
+      {
+        "id": 1012,
+        "name": "Cerebral Cortex",
+        "children": [
+          {
+            "id": 77,
+            "name": "frontal association cortex",
+            "color": "c2a994"
+          },
+          {
+            "id": 92,
+            "name": "neocortex",
+            "color": "c2a994"
+          },
+          {
+            "id": 10,
+            "name": "cingulate cortex, area 2",
+            "color": "c2a994"
+          },
+          {
+            "id": 108,
+            "name": "postrhinal cortex",
+            "color": "c2a994"
+          },
+          {
+            "id": 109,
+            "name": "presubiculum",
+            "color": "c2a994"
+          },
+          {
+            "id": 110,
+            "name": "parasubiculum",
+            "color": "c2a994"
+          },
+          {
+            "id": 112,
+            "name": "perirhinal area 35",
+            "color": "c2a994"
+          },
+          {
+            "id": 113,
+            "name": "perirhinal area 36",
+            "color": "c2a994"
+          }
+        ]
+      },
+      {
+        "id": 1021,
+        "name": "Entorhinal Cortex",
+        "children": [
+          {
+            "id": 114,
+            "name": "entorhinal cortex",
+            "color": "c2a994"
+          },
+          {
+            "id": 115,
+            "name": "lateral entorhinal cortex",
+            "color": "c2a994"
+          }
+        ]
+      },
+      {
+        "id": 1020,
+        "name": "Hippocampus",
+        "children": [
+          {
+            "id": 95,
+            "name": "cornu ammonis 3",
+            "color": "c2a994"
+          },
+          {
+            "id": 96,
+            "name": "dentate gyrus",
+            "color": "c2a994"
+          },
+          {
+            "id": 97,
+            "name": "cornu ammonis 2",
+            "color": "c2a994"
+          },
+          {
+            "id": 98,
+            "name": "cornu ammonis 1",
+            "color": "c2a994"
+          },
+          {
+            "id": 99,
+            "name": "fasciola cinereum",
+            "color": "c2a994"
+          },
+          {
+            "id": 100,
+            "name": "subiculum",
+            "color": "c2a994"
+          }
+        ]
+      },
+      {
+        "id": 30,
+        "name": "striatum",
+        "color": "c2a994"
+      },
+      {
+        "id": 31,
+        "name": "globus pallidus",
+        "color": "c2a994"
+      },
+      {
+        "id": 3,
+        "name": "subthalamic nucleus",
+        "color": "c2a994"
+      },
+      {
+        "id": 82,
+        "name": "basal forebrain region",
+        "color": "c2a994"
+      },
+      {
+        "id": 40,
+        "name": "septal region",
+        "color": "c2a994"
+      },
+      {
+        "id": 39,
+        "name": "thalamus",
+        "color": "c2a994"
+      },
+      {
+        "id": 93,
+        "name": "bed nucleus of the stria terminalis",
+        "color": "c2a994"
+      },
+      {
+        "id": 48,
+        "name": "hypothalamic region",
+        "color": "c2a994"
+      },
+      {
+        "id": 43,
+        "name": "pineal gland",
+        "color": "c2a994"
+      },
+      {
+        "id": 1013,
+        "name": "Tectum",
+        "children": [
+          {
+            "id": 49,
+            "name": "inferior colliculus",
+            "color": "c2a994"
+          },
+          {
+            "id": 50,
+            "name": "superficial gray layer of the superior colliculus",
+            "color": "c2a994"
+          },
+          {
+            "id": 55,
+            "name": "deeper layers of the superior colliculus",
+            "color": "c2a994"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "substantia nigra",
+        "color": "c2a994"
+      },
+      {
+        "id": 51,
+        "name": "periaqueductal gray",
+        "color": "c2a994"
+      },
+      {
+        "id": 58,
+        "name": "pontine nuclei",
+        "color": "c2a994"
+      },
+      {
+        "id": 1014,
+        "name": "Cerebellum",
+        "children": [
+          {
+            "id": 4,
+            "name": "molecular cell layer of the cerebellum",
+            "color": "c2a994"
+          },
+          {
+            "id": 5,
+            "name": "deeper cerebellum",
+            "color": "c2a994"
+          }
+        ]
+      },
+      {
+        "id": 74,
+        "name": "inferior olive",
+        "color": "c2a994"
+      },
+      {
+        "id": 75,
+        "name": "spinal trigeminal nucleus",
+        "color": "c2a994"
+      },
+      {
+        "id": 47,
+        "name": "brain stem",
+        "color": "c2a994"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "name": "ventricular system",
+    "color": "bfd6d2"
+  },
+  {
+    "id": 1015,
+    "name": "Spinal cord",
+    "children": [
+      {
+        "id": 45,
+        "name": "spinal cord",
+        "color": "c2a994"
+      },
+      {
+        "id": 70,
+        "name": "central canal",
+        "color": "bfd6d2"
+      }
+    ]
+  }
+]
